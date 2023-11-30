@@ -1,0 +1,3 @@
+/Users/scrambledmacbook/Desktop/Tarea/contenedores_5/cmake-build-debug/CMakeFiles/contenedores_5.dir
+/Users/scrambledmacbook/Desktop/Tarea/contenedores_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/scrambledmacbook/Desktop/Tarea/contenedores_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
